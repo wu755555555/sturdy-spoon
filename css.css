@@ -1,0 +1,27 @@
+h1{
+	color: blueviolet;
+	font-size: 80px;
+}
+#ppy{
+	color: green;
+	font-size: 60px;
+}
+h2{
+	color: deeppink;
+	font-size: 50px;
+}
+h4{
+	color: orange;
+	font-size: 30px;
+}
+h3{
+	color: blueviolet;
+	font-size: 40px;
+}
+#ppq{
+	color: aquamarine;
+	font-size: 30px;
+}
+body{
+	background-image: url(b.png) ;
+}
